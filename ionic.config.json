@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-mod-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

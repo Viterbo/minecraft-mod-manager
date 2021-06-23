@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "minecraft-mod-manager",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
